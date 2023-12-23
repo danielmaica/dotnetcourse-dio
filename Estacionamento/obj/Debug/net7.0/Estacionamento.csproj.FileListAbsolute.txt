@@ -1,0 +1,14 @@
+c:\Users\danie\www\dotnet-course\Estacionamento\bin\Debug\net7.0\Estacionamento.exe
+c:\Users\danie\www\dotnet-course\Estacionamento\bin\Debug\net7.0\Estacionamento.deps.json
+c:\Users\danie\www\dotnet-course\Estacionamento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+c:\Users\danie\www\dotnet-course\Estacionamento\bin\Debug\net7.0\Estacionamento.dll
+c:\Users\danie\www\dotnet-course\Estacionamento\bin\Debug\net7.0\Estacionamento.pdb
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.dll
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\refint\Estacionamento.dll
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.pdb
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+c:\Users\danie\www\dotnet-course\Estacionamento\obj\Debug\net7.0\ref\Estacionamento.dll

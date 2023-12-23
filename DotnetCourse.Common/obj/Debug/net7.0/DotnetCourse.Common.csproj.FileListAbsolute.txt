@@ -1,0 +1,11 @@
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\bin\Debug\net7.0\DotnetCourse.Common.deps.json
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\bin\Debug\net7.0\DotnetCourse.Common.dll
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\bin\Debug\net7.0\DotnetCourse.Common.pdb
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.AssemblyInfoInputs.cache
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.AssemblyInfo.cs
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.csproj.CoreCompileInputs.cache
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.dll
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\refint\DotnetCourse.Common.dll
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\DotnetCourse.Common.pdb
+C:\Users\danie\www\dotnet-course\DotnetCourse.Common\obj\Debug\net7.0\ref\DotnetCourse.Common.dll
