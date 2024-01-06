@@ -1,20 +1,24 @@
-﻿using System.Security.Cryptography;
-using DotnetCourse.Common.Models;
+﻿using DotnetCourse.Common.Models;
 
-int[] numeros = new int[3];
-List<int> inteiros = new();
+Pessoa p1 = new(
+  name: "Daniel", 
+  surname: "Maicá", 
+  age: 24
+);
 
-for (int c = 0; c < numeros.Length; c++)
+Pessoa p2 = new(
+  name: "Taynara", 
+  surname: "Anacleto", 
+  age: 22
+);
+
+Curso cursoDeIngles = new()
 {
-  numeros[c] = RandomNumberGenerator.GetInt32(1, 10);
-}
-
-foreach (int num in numeros)
-{
-  inteiros.Add(num);
-}
-
-inteiros.ForEach(n =>
-{
-  Console.WriteLine(n);
-});
+  Nome = "Inglês",
+  Alunos = new List<Pessoa>()
+};
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
+cursoDeIngles.RemoverAluno(p1);
+cursoDeIngles.ListarAlunos();
