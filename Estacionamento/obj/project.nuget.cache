@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ata9TE4O9xKb7X4EoglCpqJHkq6+UtF/Oe+Bbg/8Zs+Gv1j6Ymq/+ldrKp9cmQDsqb/stBNV8Ex2yPSlDR8BLA==",
+  "dgSpecHash": "kDUWS0JU4hXFJPaxVaHF6ko7iRKvzDN7q/W9METBp0b36AN7I5nIcKhrVGQtGbvIKuUN5iCl8mA1ztt3fTOiRQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\danie\\www\\dotnet-course\\Estacionamento\\Estacionamento.csproj",
+  "projectFilePath": "C:\\Users\\danie\\www\\dotnet-course\\Estacionamento\\Estacionamento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
